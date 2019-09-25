@@ -1,6 +1,6 @@
 [
     {
-        "merged": "C:\\Users\\gunza\\android-kotlin-fundamentals-starter-apps\\DessertClicker-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "C:\\Users\\gunza\\android-kotlin-fundamentals-starter-apps\\DessertClicker-Starter\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/Users/student/AndroidStudioProjects/Lifecycles/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/student/AndroidStudioProjects/Lifecycles/app/src/main/res/layout/activity_main.xml"
     }
 ]
